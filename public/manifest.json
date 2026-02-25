@@ -1,0 +1,8 @@
+{
+  "short_name": "RizzApp",
+  "name": "Good Rizz Pick Up Lines App",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff4d6d"
+}
