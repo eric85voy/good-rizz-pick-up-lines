@@ -1,0 +1,13 @@
+button {
+  padding: 10px 20px;
+  background-color: #ff4d6d;
+  border: none;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.rizz-text {
+  margin-top: 20px;
+  font-size: 18px;
+}
