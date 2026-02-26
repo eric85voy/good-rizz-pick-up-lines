@@ -36,9 +36,11 @@ Good Rizz Pick Up Lines is more than just a joke generator — it’s a fun codi
 
 ## Author
 
-**Name:** Your A/C Name  
-**Email:** youraccount@email.com  
-**Website:** good rizz pick up lines  
+**Name:** good rizz pick up lines
+
+**Email:** eric85voy@outlook.com
+
+**Website:** [good rizz pick up lines](https://www.reddit.com/r/Rizz__Lines/)
 
 ### About the Author
 
